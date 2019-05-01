@@ -1,0 +1,9 @@
+tweepy==3.7.0
+textblob==0.15.2
+pyquery==1.4.0
+Quandl==3.4.6
+googletrans==2.4.0
+langdetect==1.0.7
+word2vec==0.10.2
+tensorflow==1.13.0rc2
+keras==2.2.4
